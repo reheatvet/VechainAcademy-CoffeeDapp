@@ -25,7 +25,7 @@ module.exports = {
       url: 'http://localhost:8669',
       accounts: {
         mnemonic:
-            'denial kitchen pet squirrel other broom bar gas better priority spoil cross',
+            '',
         path: "m/44'/818'/0'/0",
         count: 3,
         initialIndex: 0,
@@ -43,7 +43,7 @@ module.exports = {
       url: 'https://testnet.vechain.org',
       accounts: {
         mnemonic:
-            'vivid any call mammal mosquito budget midnight expose spirit approve reject system',
+            'outer another liquid liberty rack vivid crop manual harvest beach friend burger',
         path: "m/44'/818'/0'/0",
         count: 3,
         initialIndex: 0,

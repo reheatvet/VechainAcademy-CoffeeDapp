@@ -9,12 +9,12 @@
     "solo-down": "make solo-down"
   },
   "dependencies": {
-    "ts-node": "^10.9.2",
-    "@repo/config-contract": "*"
+    "@repo/config-contract": "*",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.8",
     "@vechain/sdk-hardhat-plugin": "^1.0.0",
-    "hardhat": "^2.22.19"
+    "hardhat": "^2.24.1"
   }
 }

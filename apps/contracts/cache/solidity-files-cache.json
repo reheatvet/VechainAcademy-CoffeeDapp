@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/andreas.frank/work/buy-me-a-coffee/apps/contracts/contracts/BuyMeACoffee.sol": {
-      "lastModificationDate": 1742893297363,
-      "contentHash": "023961ae99345e30eda021e059e69c49",
+    "E:\\dev\\vechain\\buy-me-coffee-example\\apps\\contracts\\contracts\\BuyMeACoffee.sol": {
+      "lastModificationDate": 1748545627755,
+      "contentHash": "cd120866e07b9e91aba9ce908c840d75",
       "sourceName": "contracts/BuyMeACoffee.sol",
       "solcConfig": {
         "version": "0.8.20",
