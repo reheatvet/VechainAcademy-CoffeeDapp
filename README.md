@@ -145,3 +145,4 @@ The frontend of the "Buy Me A Coffee" DApp is built using React and Vite. It pro
   - **Recipient Input**: Allows users to specify the recipient's address along with their name and message.
   - **Blockchain Interaction**: Calls the `sendCoffee` function from the smart contract to send the specified amount of VET to the recipient.
   - **Validation**: Similar to `BuyCoffee`, it ensures that the amount sent is valid and greater than zero.
+# VechainAcademy-CoffeeDapp
